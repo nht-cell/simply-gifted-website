@@ -9,7 +9,7 @@ const products = [
     id: 1,
     name: "Cupid Gift Basket",
     price: "$15.00",
-    image: "/cupid-basket.png",
+    image: "/cupid-gift-basket.png",
     description:
       "This Valentine’s, make someone’s day unforgettable with a personalized Cupid’s Basket! Perfect for your girlfriend, best friend, or secret crush, these baskets are crafted with love and designed just for you.",
   },
